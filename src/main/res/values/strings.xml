@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUtilities</string>
+    <string name="boton_aceptar">Aceptar</string>
+    <string name="boton_cancelar">Cancelar</string>
+</resources>
